@@ -10,7 +10,7 @@ WHEN LOOKING AT PUP PUPS USER SHOULD BE ABLE TO:
  - Click on "Reset Treats" button to reset treats to 0.
 
 ## EXAMPLE:
-![Showcasing the full functionality]()
+![Showcasing the full functionality](Demo.gif)
 
 ### STEP 1: VIEW THE DATA
 
