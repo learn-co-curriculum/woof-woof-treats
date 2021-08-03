@@ -1,0 +1,72 @@
+#filter-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: skyblue;
+
+}
+
+#dog-bar {
+  height: 15vh;
+  background: skyblue;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#dog-bar span {
+  height: 80%;
+  width: 8vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2em;
+  border: 1px solid blue;
+}
+
+/* #dog-summary-container {
+  height: 75vh;
+  text-align: center;
+}
+
+#dog-info {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+#dog-info img {
+  max-width: 75vw;
+  max-height: 25vw;
+} */
+
+body {
+  margin: 0;
+}
+
+#dog-info {
+  height: 550px;
+  padding: 30px;
+  font-size: 24px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border: dotted;
+  text-align: center;
+}
+
+input[type="submit"], button{
+  background-color: rgb(49, 109, 179);
+  color: white;
+  font-size: 18px;
+  border-radius: 6px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type="text"]{
+  height: 4vh;
+  font-size: 3vh;
+}
+
+#image {
+  width: 300px;
+  height: 300px;
+}

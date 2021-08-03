@@ -1,0 +1,64 @@
+{
+  "pups": [
+    {
+      "id": 1,
+      "name": "Mr. Bonkers",
+      "treats": 8,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nugget",
+      "treats": 2,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Skittles",
+      "treats": 19,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Buttercup",
+      "treats": 23,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lucipher",
+      "treats": 29,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Snooper Pooper",
+      "treats": 14,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Puddles",
+      "treats": 1,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mittens",
+      "treats": 10,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Middens",
+      "treats": 30,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Fido",
+      "treats": 35,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+    }
+  ]
+}
